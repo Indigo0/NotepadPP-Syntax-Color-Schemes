@@ -1,20 +1,5 @@
 <!--Gruvbox Dark Soft Theme For Notepad++-->
 <!--Ported by William Burton-->
-
-Gray: #928347 | rgb(146, 131, 71)
-Red: #fb4934 | rgb(251, 73, 52)
-Green: #b8bb26 | rgb(184, 187, 38)
-Yellow: #fabd2f | rgb(250, 189, 47)
-Blue: #83a598 | rgb(131, 165, 153)
-Purple: #d3869b | rgb(211, 134, 155)
-Aqua: #8ec07c | rgb(142, 192, 124)
-Orange: #fe8019 | rgb(254, 128, 25)
-FG: #ebdbb2 | rgb(235, 219, 178)
-BG: #32302f | rgb(50, 48, 47)
-Selection1: #3c3836 | rgb(60, 56, 54)
-Selection2: #504945 | rgb(80, 73, 69)
-Selection3: #665c54 | rgb(102, 92, 84)
--->
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <LexerStyles>
